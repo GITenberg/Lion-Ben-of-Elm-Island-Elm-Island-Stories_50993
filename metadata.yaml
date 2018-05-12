@@ -1,10 +1,16 @@
 _repo: Lion-Ben-of-Elm-Island-Elm-Island-Stories_50993
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50993-h/images/cover.jpg
 creator:
   author:
     agent_name: Kellogg, Elijah
     gutenberg_agent_id: '45035'
     url: http://www.gutenberg.org/2009/agents/45035
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50993#Lion-Ben-of-Elm-Island-Elm-Island-Stories
 gutenberg_issued: '2016-01-22'
 gutenberg_type: Text
 identifiers:
